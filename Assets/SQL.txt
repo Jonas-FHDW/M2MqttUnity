@@ -1,0 +1,4 @@
+﻿SELECT * FROM trajectory_trajectory
+	JOIN trajectory_trajectory_point ON trajectory_trajectory_point.trajectory_id = trajectory_trajectory.trajectory_part_id
+	JOIN trajectory_point ON trajectory_point.id = trajectory_trajectory_point.trajectory_point_id
+	JOIN sensor ON sensor.id = trajectory_point.sensor_data_id;

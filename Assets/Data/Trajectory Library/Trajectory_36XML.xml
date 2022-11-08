@@ -1,0 +1,294 @@
+<TrajectoryData xmlns="http://schemas.datacontract.org/2004/07/Trajectories"
+                xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+    <_x003C_Length_x003E_k__BackingField>36</_x003C_Length_x003E_k__BackingField>
+    <_x003C_Points_x003E_k__BackingField>
+        <TrajectoryPoint>
+            <Position xmlns:a="http://schemas.datacontract.org/2004/07/UnityEngine">
+                <a:x>0</a:x>
+                <a:y>0</a:y>
+                <a:z>0</a:z>
+            </Position>
+            <Time>0.1584549</Time>
+        </TrajectoryPoint>
+        <TrajectoryPoint>
+            <Position xmlns:a="http://schemas.datacontract.org/2004/07/UnityEngine">
+                <a:x>0</a:x>
+                <a:y>0</a:y>
+                <a:z>0</a:z>
+            </Position>
+            <Time>0.335368633</Time>
+        </TrajectoryPoint>
+        <TrajectoryPoint>
+            <Position xmlns:a="http://schemas.datacontract.org/2004/07/UnityEngine">
+                <a:x>0</a:x>
+                <a:y>0</a:y>
+                <a:z>0</a:z>
+            </Position>
+            <Time>0.5299232</Time>
+        </TrajectoryPoint>
+        <TrajectoryPoint>
+            <Position xmlns:a="http://schemas.datacontract.org/2004/07/UnityEngine">
+                <a:x>0</a:x>
+                <a:y>0</a:y>
+                <a:z>0</a:z>
+            </Position>
+            <Time>0.728575945</Time>
+        </TrajectoryPoint>
+        <TrajectoryPoint>
+            <Position xmlns:a="http://schemas.datacontract.org/2004/07/UnityEngine">
+                <a:x>0</a:x>
+                <a:y>0</a:y>
+                <a:z>0</a:z>
+            </Position>
+            <Time>0.9276595</Time>
+        </TrajectoryPoint>
+        <TrajectoryPoint>
+            <Position xmlns:a="http://schemas.datacontract.org/2004/07/UnityEngine">
+                <a:x>0</a:x>
+                <a:y>0</a:y>
+                <a:z>0</a:z>
+            </Position>
+            <Time>1.10177183</Time>
+        </TrajectoryPoint>
+        <TrajectoryPoint>
+            <Position xmlns:a="http://schemas.datacontract.org/2004/07/UnityEngine">
+                <a:x>0</a:x>
+                <a:y>0</a:y>
+                <a:z>0</a:z>
+            </Position>
+            <Time>1.33781266</Time>
+        </TrajectoryPoint>
+        <TrajectoryPoint>
+            <Position xmlns:a="http://schemas.datacontract.org/2004/07/UnityEngine">
+                <a:x>0</a:x>
+                <a:y>0</a:y>
+                <a:z>0</a:z>
+            </Position>
+            <Time>1.52360177</Time>
+        </TrajectoryPoint>
+        <TrajectoryPoint>
+            <Position xmlns:a="http://schemas.datacontract.org/2004/07/UnityEngine">
+                <a:x>-0.0961070061</a:x>
+                <a:y>0.438223958</a:y>
+                <a:z>0.0256118216</a:z>
+            </Position>
+            <Time>1.72555041</Time>
+        </TrajectoryPoint>
+        <TrajectoryPoint>
+            <Position xmlns:a="http://schemas.datacontract.org/2004/07/UnityEngine">
+                <a:x>-0.4186364</a:x>
+                <a:y>2.30308652</a:y>
+                <a:z>0.247094855</a:z>
+            </Position>
+            <Time>1.920594</Time>
+        </TrajectoryPoint>
+        <TrajectoryPoint>
+            <Position xmlns:a="http://schemas.datacontract.org/2004/07/UnityEngine">
+                <a:x>-0.8629955</a:x>
+                <a:y>5.76246643</a:y>
+                <a:z>0.7954139</a:z>
+            </Position>
+            <Time>2.10607171</Time>
+        </TrajectoryPoint>
+        <TrajectoryPoint>
+            <Position xmlns:a="http://schemas.datacontract.org/2004/07/UnityEngine">
+                <a:x>-1.34199536</a:x>
+                <a:y>10.7683783</a:y>
+                <a:z>1.6263504</a:z>
+            </Position>
+            <Time>2.28617883</Time>
+        </TrajectoryPoint>
+        <TrajectoryPoint>
+            <Position xmlns:a="http://schemas.datacontract.org/2004/07/UnityEngine">
+                <a:x>-1.97525358</a:x>
+                <a:y>18.3483143</a:y>
+                <a:z>2.96346927</a:z>
+            </Position>
+            <Time>2.47946382</Time>
+        </TrajectoryPoint>
+        <TrajectoryPoint>
+            <Position xmlns:a="http://schemas.datacontract.org/2004/07/UnityEngine">
+                <a:x>-2.7722075</a:x>
+                <a:y>27.9511013</a:y>
+                <a:z>4.74059153</a:z>
+            </Position>
+            <Time>2.67971063</Time>
+        </TrajectoryPoint>
+        <TrajectoryPoint>
+            <Position xmlns:a="http://schemas.datacontract.org/2004/07/UnityEngine">
+                <a:x>-4.394185</a:x>
+                <a:y>49.37393</a:y>
+                <a:z>8.580918</a:z>
+            </Position>
+            <Time>3.08979535</Time>
+        </TrajectoryPoint>
+        <TrajectoryPoint>
+            <Position xmlns:a="http://schemas.datacontract.org/2004/07/UnityEngine">
+                <a:x>-5.08601856</a:x>
+                <a:y>60.4119759</a:y>
+                <a:z>10.9220886</a:z>
+            </Position>
+            <Time>3.30681825</Time>
+        </TrajectoryPoint>
+        <TrajectoryPoint>
+            <Position xmlns:a="http://schemas.datacontract.org/2004/07/UnityEngine">
+                <a:x>-5.522055</a:x>
+                <a:y>68.472435</a:y>
+                <a:z>13.6561823</a:z>
+            </Position>
+            <Time>3.50209641</Time>
+        </TrajectoryPoint>
+        <TrajectoryPoint>
+            <Position xmlns:a="http://schemas.datacontract.org/2004/07/UnityEngine">
+                <a:x>-5.920679</a:x>
+                <a:y>74.18861</a:y>
+                <a:z>17.1946354</a:z>
+            </Position>
+            <Time>3.704273</Time>
+        </TrajectoryPoint>
+        <TrajectoryPoint>
+            <Position xmlns:a="http://schemas.datacontract.org/2004/07/UnityEngine">
+                <a:x>-6.278902</a:x>
+                <a:y>77.58328</a:y>
+                <a:z>21.6298447</a:z>
+            </Position>
+            <Time>3.89651656</Time>
+        </TrajectoryPoint>
+        <TrajectoryPoint>
+            <Position xmlns:a="http://schemas.datacontract.org/2004/07/UnityEngine">
+                <a:x>-6.55232954</a:x>
+                <a:y>78.71305</a:y>
+                <a:z>26.3382034</a:z>
+            </Position>
+            <Time>4.08599567</Time>
+        </TrajectoryPoint>
+        <TrajectoryPoint>
+            <Position xmlns:a="http://schemas.datacontract.org/2004/07/UnityEngine">
+                <a:x>-6.85271645</a:x>
+                <a:y>77.64461</a:y>
+                <a:z>32.4280624</a:z>
+            </Position>
+            <Time>4.272788</Time>
+        </TrajectoryPoint>
+        <TrajectoryPoint>
+            <Position xmlns:a="http://schemas.datacontract.org/2004/07/UnityEngine">
+                <a:x>-7.1256423</a:x>
+                <a:y>74.3888</a:y>
+                <a:z>38.8710327</a:z>
+            </Position>
+            <Time>4.468898</Time>
+        </TrajectoryPoint>
+        <TrajectoryPoint>
+            <Position xmlns:a="http://schemas.datacontract.org/2004/07/UnityEngine">
+                <a:x>-7.36431646</a:x>
+                <a:y>68.85608</a:y>
+                <a:z>46.35634</a:z>
+            </Position>
+            <Time>4.639204</Time>
+        </TrajectoryPoint>
+        <TrajectoryPoint>
+            <Position xmlns:a="http://schemas.datacontract.org/2004/07/UnityEngine">
+                <a:x>-7.559802</a:x>
+                <a:y>60.1330147</a:y>
+                <a:z>55.77934</a:z>
+            </Position>
+            <Time>4.838683</Time>
+        </TrajectoryPoint>
+        <TrajectoryPoint>
+            <Position xmlns:a="http://schemas.datacontract.org/2004/07/UnityEngine">
+                <a:x>-7.67970562</a:x>
+                <a:y>50.9354477</a:y>
+                <a:z>64.41775</a:z>
+            </Position>
+            <Time>5.00134563</Time>
+        </TrajectoryPoint>
+        <TrajectoryPoint>
+            <Position xmlns:a="http://schemas.datacontract.org/2004/07/UnityEngine">
+                <a:x>-7.86136436</a:x>
+                <a:y>38.76422</a:y>
+                <a:z>74.8414841</a:z>
+            </Position>
+            <Time>5.1877594</Time>
+        </TrajectoryPoint>
+        <TrajectoryPoint>
+            <Position xmlns:a="http://schemas.datacontract.org/2004/07/UnityEngine">
+                <a:x>-8.096074</a:x>
+                <a:y>23.8847885</a:y>
+                <a:z>86.81106</a:z>
+            </Position>
+            <Time>5.38822365</Time>
+        </TrajectoryPoint>
+        <TrajectoryPoint>
+            <Position xmlns:a="http://schemas.datacontract.org/2004/07/UnityEngine">
+                <a:x>-8.278553</a:x>
+                <a:y>10.2813215</a:y>
+                <a:z>97.71709</a:z>
+            </Position>
+            <Time>5.56542969</Time>
+        </TrajectoryPoint>
+        <TrajectoryPoint>
+            <Position xmlns:a="http://schemas.datacontract.org/2004/07/UnityEngine">
+                <a:x>-8.636543</a:x>
+                <a:y>-5.042556</a:y>
+                <a:z>111.127419</a:z>
+            </Position>
+            <Time>5.78930473</Time>
+        </TrajectoryPoint>
+        <TrajectoryPoint>
+            <Position xmlns:a="http://schemas.datacontract.org/2004/07/UnityEngine">
+                <a:x>-9.248334</a:x>
+                <a:y>-16.96028</a:y>
+                <a:z>123.7774</a:z>
+            </Position>
+            <Time>5.99051666</Time>
+        </TrajectoryPoint>
+        <TrajectoryPoint>
+            <Position xmlns:a="http://schemas.datacontract.org/2004/07/UnityEngine">
+                <a:x>-10.4616175</a:x>
+                <a:y>-27.0740719</a:y>
+                <a:z>138.450256</a:z>
+            </Position>
+            <Time>6.197424</Time>
+        </TrajectoryPoint>
+        <TrajectoryPoint>
+            <Position xmlns:a="http://schemas.datacontract.org/2004/07/UnityEngine">
+                <a:x>-12.2311144</a:x>
+                <a:y>-33.3776436</a:y>
+                <a:z>152.863358</a:z>
+            </Position>
+            <Time>6.395343</Time>
+        </TrajectoryPoint>
+        <TrajectoryPoint>
+            <Position xmlns:a="http://schemas.datacontract.org/2004/07/UnityEngine">
+                <a:x>-14.247261</a:x>
+                <a:y>-36.5657234</a:y>
+                <a:z>166.606735</a:z>
+            </Position>
+            <Time>6.587843</Time>
+        </TrajectoryPoint>
+        <TrajectoryPoint>
+            <Position xmlns:a="http://schemas.datacontract.org/2004/07/UnityEngine">
+                <a:x>-16.5212364</a:x>
+                <a:y>-37.3554649</a:y>
+                <a:z>181.395615</a:z>
+            </Position>
+            <Time>6.77065563</Time>
+        </TrajectoryPoint>
+        <TrajectoryPoint>
+            <Position xmlns:a="http://schemas.datacontract.org/2004/07/UnityEngine">
+                <a:x>-19.4437428</a:x>
+                <a:y>-35.2396774</a:y>
+                <a:z>200.3634</a:z>
+            </Position>
+            <Time>6.98677158</Time>
+        </TrajectoryPoint>
+        <TrajectoryPoint>
+            <Position xmlns:a="http://schemas.datacontract.org/2004/07/UnityEngine">
+                <a:x>-22.1022472</a:x>
+                <a:y>-31.3300285</a:y>
+                <a:z>217.873611</a:z>
+            </Position>
+            <Time>7.1871357</Time>
+        </TrajectoryPoint>
+    </_x003C_Points_x003E_k__BackingField>
+</TrajectoryData>                                                                                                
