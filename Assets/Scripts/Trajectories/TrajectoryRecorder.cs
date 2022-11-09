@@ -1,6 +1,7 @@
 using System.Collections.Generic;
 using Data;
 using Mqtt;
+using NUnit.Framework.Constraints;
 using UnityEngine;
 
 namespace Trajectories {
@@ -9,6 +10,8 @@ namespace Trajectories {
 
         public bool usePeucker = false;
         public DouglasPeuckerTest douglasPeuckerTest;
+        
+        public bool recordOnStart = true;
         
         [Header("Point Visibility")]
         public bool pointsVisible = true;
@@ -61,6 +64,9 @@ namespace Trajectories {
 
         private void Start() {
             _points = new List<TrajectoryPoint>();
+            if (recordOnStart) {
+                ToggleRecording();
+            }
         }
 
         private void LateUpdate() {

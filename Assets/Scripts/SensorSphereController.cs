@@ -8,8 +8,8 @@ public class SensorSphereController : MqttObserver
     public MyRigidbody rb;
 
     public override void OnNext(MqttData mqttData) {
+        Debug.Log(mqttData.ToString());
         rb.Acceleration = mqttData.Acceleration;
-        // Debug.Log(mqttData.ToString());
     }
 
     protected void Start() {

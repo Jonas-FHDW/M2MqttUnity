@@ -34,8 +34,9 @@ namespace Mqtt {
         } 
     }
     public enum MqttTopic {
-        Mpu6050,
-        Mpu6051,
+        MPU6050,
+        MPU6051,
+        Phyphox,
         Unknown
     }
 }
