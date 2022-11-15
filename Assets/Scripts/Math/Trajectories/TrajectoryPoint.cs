@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace Trajectories {
+namespace Math.Trajectories {
     public class TrajectoryPoint {
         
         public TrajectoryPoint() {

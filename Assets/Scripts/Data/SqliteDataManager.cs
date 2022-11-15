@@ -1,6 +1,6 @@
 ﻿using System.Data;
+using Math.Trajectories;
 using Mono.Data.Sqlite;
-using Trajectories;
 using UnityEngine;
 
 namespace Data {

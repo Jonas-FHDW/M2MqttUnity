@@ -1,8 +1,8 @@
 using System.Collections.Generic;
 using Math;
+using Math.Trajectories;
 using NUnit.Framework;
 using TMPro;
-using Trajectories;
 using UnityEngine;
 using UnityEngine.UI;
 

@@ -2,6 +2,14 @@
 
 namespace CSharp_Only {
     public static class DouglasPeuckerAlgorithm {
+        
+        /// <summary>
+        /// Implementation of the Douglas-Peucker algorithm.
+        /// It decimates a curve composed of line segments to a similar curve with fewer points.
+        /// </summary>
+        /// <param name="points">Points of the original curve.</param>
+        /// <param name="tolerance">Used tolerance in the algorithm.</param>
+        /// <returns>A similar curve with fewer points</returns>
         public static Vector3[] PointReduction(Vector3[] points, float tolerance) {
             Vector3[] resultList;
             // Finde den Punkt mit dem größten Abstand

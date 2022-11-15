@@ -2,7 +2,7 @@
 using System.Runtime.Serialization;
 using System.Text;
 using System.Xml.Linq;
-using Trajectories;
+using Math.Trajectories;
 using UnityEditor;
 using UnityEngine;
 

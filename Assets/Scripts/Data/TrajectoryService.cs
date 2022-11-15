@@ -1,5 +1,5 @@
 ﻿using System.Data;
-using Trajectories;
+using Math.Trajectories;
 
 namespace Data {
     public class TrajectoryService {

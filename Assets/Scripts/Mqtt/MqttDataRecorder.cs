@@ -1,13 +1,13 @@
-﻿using System.Collections.Generic;using DefaultNamespace;
+﻿namespace Mqtt {
+    public class MqttDataRecorder : IRecorder {
 
-public class MqttDataRecorder : IRecorder {
-
-    public void StartRecording() {
+        public void StartRecording() {
             
-    }
+        }
 
-    public void StopRecording() {
+        public void StopRecording() {
             
-    }
+        }
 
+    }
 }

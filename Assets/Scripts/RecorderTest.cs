@@ -1,7 +1,6 @@
 ﻿using System;
-using DefaultNamespace;
+using Mqtt;
 using TMPro;
-using Trajectories;
 using UnityEngine;
 using UnityEngine.UI;
 

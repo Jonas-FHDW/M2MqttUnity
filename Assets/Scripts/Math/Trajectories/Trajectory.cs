@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace Trajectories {
+namespace Math.Trajectories {
     public class Trajectory {
         public readonly TrajectoryPoint[] Points;
         public int Length => Points.Length;

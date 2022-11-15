@@ -1,10 +1,9 @@
 using System.Collections.Generic;
 using Data;
 using Mqtt;
-using NUnit.Framework.Constraints;
 using UnityEngine;
 
-namespace Trajectories {
+namespace Math.Trajectories {
     public class TrajectoryRecorder : MqttObserver {
         public Transform objectToTrack;
 
