@@ -1,7 +1,6 @@
-﻿using Unity.Mathematics;
-using UnityEngine;
+﻿using System.Numerics;
 
-namespace Math {
+namespace CSharp_Only {
     public static class DouglasPeuckerAlgorithm {
         public static Vector3[] PointReduction(Vector3[] points, float tolerance) {
             Vector3[] resultList;
@@ -39,11 +38,11 @@ namespace Math {
             var a = line.Position;
             var b = line.Direction;
 
-            var t = (-(a.x - point.x) * b.x - (a.y - point.y) * b.y - (a.z - point.z) * b.z)
-                    / (math.pow(b.x, 2f) + math.pow(b.y, 2f) + math.pow(b.z, 2f));
+            var t = (-(a.X - point.X) * b.X - (a.Y - point.Y) * b.Y - (a.Z - point.Z) * b.Z)
+                    / (System.Math.Pow(b.X, 2f) + System.Math.Pow(b.Y, 2f) + System.Math.Pow(b.Z, 2f));
 
-            var lotPoint = a + t * b;
-            return (lotPoint - point).magnitude;
+            var lotPoint = Vector3.Add(a, Vector3.Multiply((float)t, b));
+            return (lotPoint - point).Length();
         }
 
         private static Vector3[] SubArray(Vector3[] array, int startIndex, int endIndex) {
@@ -69,6 +68,16 @@ namespace Math {
             }
 
             return resultArray;
+        }
+
+        private class Line {
+            public Vector3 Position { get; }
+            public Vector3 Direction { get; }
+
+            public Line(Vector3 position, Vector3 direction) {
+                Position = position;
+                Direction = direction;
+            }
         }
     }
 }

@@ -86,7 +86,7 @@ public class DouglasPeuckerTest : MonoBehaviour {
         if (inputPointList is not { Count: > 0 })
             return;
         if (!showAcceleration) {
-            _displayPointList = new List<Vector3>(DouglasPeuckerAlgorithm.DouglasPeuckerReduction(inputPointList.ToArray(), _peuckerTolerance));
+            _displayPointList = new List<Vector3>(DouglasPeuckerAlgorithm.PointReduction(inputPointList.ToArray(), _peuckerTolerance));
         }
         else {
             _displayPointList = _accelerationList;
